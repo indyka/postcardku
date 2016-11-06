@@ -1,6 +1,11 @@
-This is Postcardku
+## What is this?
 
+Postcard generator which handles the making of class postcard
 
-Regards,
+## Contributor
 
-Tim Donat
+Jojo Irianto, Indyka Saidi
+
+## License
+
+MIT
